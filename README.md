@@ -1,1 +1,5 @@
 # ECE-3872-Code
+
+Code for ECE 3872 at Georgia Tech for Junior Design
+Includes: 
+- Power Subsystem and Software Sim Code
