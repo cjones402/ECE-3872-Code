@@ -3,3 +3,4 @@
 Code for ECE 3872 at Georgia Tech for Junior Design
 Includes: 
 - Power Subsystem and Software Sim Code
+- Motorshield Debug, the final build of the code
