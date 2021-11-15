@@ -6,4 +6,4 @@ Includes:
 - Motorshield Debug, the final build of the code
 - Simulation code for our initial DSP algorithm in MATLAB
 - Arduino tempo detection developement file
-- plotting assist script for testing the matlab code
+- Plotting assist script for testing the matlab code
